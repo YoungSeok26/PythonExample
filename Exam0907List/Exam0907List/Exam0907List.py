@@ -75,3 +75,17 @@ examextend.extend([50,53])
 print(examextend)
 examextend.append([12,34])
 print(examextend)
+
+t1 =()
+t2 = (1,)
+t3 = (1,2,3)
+t4 = 1,2,3
+t5 = ('a','b',('a','b'))
+t6 = (1)
+
+print(t1)
+print(t2)
+print(t3)
+print(t4)
+print(t5)
+print(t6)
